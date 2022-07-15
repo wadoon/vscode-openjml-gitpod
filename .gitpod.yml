@@ -1,5 +1,7 @@
 image: wadoon/key-test-docker:jdk8
 
+# https://github.com/wadoon/vscode-openjml-gitpod/raw/main/openjml-0.0.1.vsix
+
 vscode:
-  extensions:
-    - https://example.com/abc/releases/extension-0.26.0.vsix
+  extensions:  
+    - ./openjml-0.0.1.vsix
