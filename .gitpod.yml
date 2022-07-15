@@ -1,0 +1,5 @@
+image: wadoon/key-test-docker:jdk8
+
+vscode:
+  extensions:
+    - https://example.com/abc/releases/extension-0.26.0.vsix
